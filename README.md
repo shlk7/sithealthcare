@@ -6,8 +6,6 @@ from doctors and check availability of medicines in medical store .
 
 ----------------------------
 
-Deployed -Check it out [COLLEGE-HEALTH-CARE](https://vithc.herokuapp.com/).
-
 ----------------------------
 
 TECHNOLOGIES USED
