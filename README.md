@@ -22,10 +22,10 @@ TECHNOLOGIES USED
 
 Patients(Can be registered through):              
             
-- email : nikhil@vit.ac.in     password : nikhil
-- email : pk@vit.ac.in         password : pankaj
-- email : rishu@vit.ac.in      password : rishu
-- email :  shreya@vit.ac.in    password : shreya
+- email : nikhil@sit.ac.in     password : nikhil
+- email : abhinav@sit.ac.in    password : abhinav
+- email : shlok@sit.ac.in      password : shlok
+- email : shreya@sit.ac.in     password : shreya
 
 
 Doctors(Can be registered only through superuser):
@@ -34,6 +34,7 @@ Doctors(Can be registered only through superuser):
 - email : nksingh@vit.ac.in      password : nksingh@vit.ac.in
 - email : kumar@vit.ac.in        password : kumar.5@vit.ac.in
 - email : raghavan@vit.ac.in     password : sharma.1@vit.ac.in
+
 
 ----------------------------
 
