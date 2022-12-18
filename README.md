@@ -28,10 +28,8 @@ Patients(Can be registered through):
 
 Doctors(Can be registered only through superuser):
 
-<!-- - email : rpgoyal@vit.ac.in      password : rpgoyal@vit.ac.in
-- email : nksingh@vit.ac.in      password : nksingh@vit.ac.in
-- email : kumar@vit.ac.in        password : kumar.5@vit.ac.in
-- email : raghavan@vit.ac.in     password : sharma.1@vit.ac.in -->
+- email : satish@vit.ac.in      password : satishg@vit.ac.in
+-  email : sunil@vit.ac.in      password : sunil@vit.ac.in
 
 
 ----------------------------
