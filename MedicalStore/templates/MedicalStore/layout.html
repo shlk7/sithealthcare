@@ -23,7 +23,7 @@
         {% if request.session.isLoggedIn %}
             <a class="navbar-brand" href="/"><h3 style="color:black;text-align:center">Hi,{% if request.session.isDoctor %} Dr.{% endif %} {{ request.session.Name }}</h3></a>
         {% else %}
-            <a class="navbar-brand" href="/"><h2 style="color:black;text-align:center"> VIT Vellore Health Centre</h2></a>
+            <a class="navbar-brand" href="/"><h2 style="color:black;text-align:center"> SIT Vellore Health Centre</h2></a>
         {% endif %}
 
         <img src="{% static 'HealthCentre/images/jdh10.png' %}" style="width:5%;height:5%;"></img>
